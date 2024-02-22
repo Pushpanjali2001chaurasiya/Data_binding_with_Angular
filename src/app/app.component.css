@@ -1,0 +1,23 @@
+.form-area{
+    margin: 50px;
+    text-align: center;
+    background-color: cadetblue;
+    outline: 2px solid black;
+    width: 700px;
+    position: relative;
+    left: 200px;
+
+}
+.preview-area{
+    background-color: coral;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    outline: 2px solid black;
+    position: relative;
+    left:300px;
+}
+img{
+    width:200px;
+    height: 200px;
+}
